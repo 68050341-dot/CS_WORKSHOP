@@ -1,0 +1,17 @@
+.Home {
+    margin-top: 200px;
+    margin-left:  100px;
+    color:aqua
+}
+
+p{
+    color:brown;
+    text-align: center;
+}
+
+.box{
+    width: 100vw;
+    height: 10vh;
+    background-color: chartreuse;
+    align-items: center;
+}
